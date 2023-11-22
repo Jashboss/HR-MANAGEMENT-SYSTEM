@@ -46,7 +46,7 @@ Improve data accuracy and reduce manual data entry errors.
 Enhance communication between HR and employees.
 Provide managers and HR professionals with insightful analytics for better decision-making.
 Project Timeline:
-The project is planned to be developed over a period of [X months], with regular milestones for testing and feedback.
+The project is planned to be developed over a period of 3 months , with regular milestones for testing and feedback.
 
 Conclusion:
 The HR Management System aims to revolutionize the way our organization manages its human resources, fostering a more organized, efficient, and transparent HR environment.
